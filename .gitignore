@@ -1,0 +1,16 @@
+# Build output
+dist/
+
+# Node modules
+node_modules/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Mac/Linux system files
+.DS_Store
+
+# Env vars
+.env
+.env.local
